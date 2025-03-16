@@ -7,5 +7,4 @@ main()
     scanf("%f",&f);
     C=5*(f-32)/9;
     printf("The value of centigrade is : %.3f/n",C);
-    getchar();
 }

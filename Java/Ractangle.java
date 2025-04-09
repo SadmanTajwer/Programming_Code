@@ -5,7 +5,7 @@ public class Ractangle
  public static void main(String[] args) 
  {
 	double width,height;
-	width = 5.5;
+	width = 5.9;
 	height = 8.5;
 	float Area,Perameter;
 	Area=(float)(width*height);
